@@ -1,1 +1,1 @@
-# criei-outro-site-de-anime
+# criei-outro-site-de-animeEste projeto é uma landing page moderna inspirada em estética anime, com foco em design visual atrativo e experiência do usuário. Possui animações suaves, fundo dinâmico e interface responsiva, desenvolvida utilizando HTML, CSS e JavaScript puro.
